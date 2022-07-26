@@ -3,8 +3,8 @@ package N101;
 public class Month implements Comparable<Month> {
 
 	// Attributes
-	String nombre;
-	int num;
+	private String nombre;
+	private int num;
 
 	// Constructor
 	public Month(String nombre, int num) {

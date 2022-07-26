@@ -13,7 +13,7 @@ package N102;
 
 public class CalculoDni {
 
-	public static Character calcularLetraDni(int numDni) {
+	public Character calcularLetraDni(int numDni) {
 		
 		// Datos
         int numClave = 0;
